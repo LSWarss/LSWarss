@@ -13,12 +13,12 @@
 <br />
 
 ### Languages and Tools:
-[<img src="https://img.icons8.com/color/48/000000/javascript.png"/>][https://developer.mozilla.org/en-US/docs/Web/JavaScript]
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>][]
-[<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>][]
-[<img src="https://img.icons8.com/officel/48/000000/react.png"/>][]
-[<img src="https://img.icons8.com/color/48/000000/docker.png"/>][]
-[<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>][]
+[<img src="https://img.icons8.com/color/48/000000/javascript.png"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]()
+[<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>]()
+[<img src="https://img.icons8.com/officel/48/000000/react.png"/>]()
+[<img src="https://img.icons8.com/color/48/000000/docker.png"/>]()
+[<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>]()
 
 
 
