@@ -1,4 +1,4 @@
-## Hi there, I'm Łukasz aka <span style="color: red">L</span><span style="color: orange">S</span><span style="color:yellow">W</span><span style="color: green">a</span><span style="color:DeepSkyBlue">r</span><span style="color:Blue">s</span><span style="color:purple">s</span>
+## Hi there, I'm Łukasz aka LSWarss
 
 ### I'm a Developer, Runner and big music fan
 - 👔 I'm currently working for [SAP](https://www.sap.com/index.html) as Cloud Support Engineer
