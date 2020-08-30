@@ -1,6 +1,6 @@
 ## Hi there, I'm Łukasz aka LSWarss
 
-### I'm a Runner, Developer and Cloud fun
+### I'm a Runner, Developer and Cloud fan
 - 👔 I'm currently working for [SAP](https://www.sap.com/index.html) as Cloud Support Engineer
 - 🏫 I'm currently studying Computer Science in Katowice
 - 📚 I'm currently learning/using: JS+React, Python, Java, Docker, Kubernetes and all around Cloud 
