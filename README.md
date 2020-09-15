@@ -11,8 +11,10 @@
 <br>
 
 ### Connect with me:
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>][mail]
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img src="https://img.icons8.com/fluent/50/000000/instagram-new.png"/>][instagram]
+
 
 ### Languages and Tools:
 [<img src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/)
@@ -29,4 +31,5 @@
 [website]: www.google.com 
 [linkedin]: https://www.linkedin.com/in/%C5%82ukasz-stachnik-495a46184/
 [instagram]: https://www.instagram.com/lswarss
+[mail]: ls.warss98@gmail.com
  
