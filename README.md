@@ -1,10 +1,14 @@
 ## Hi there, I'm Łukasz aka LSWarss
 
 ### I'm a Runner, Developer and Cloud fan
-- 👔 I'm currently working for [SAP](https://www.sap.com/index.html) as Cloud Support Engineer
-- 🏫 I'm currently studying Computer Science in Katowice
-- 📚 I'm currently learning/using: Python, Java, Kotlin + Android, Docker, Kubernetes and all around Cloud 
-- 🥅 My goals for 2020: Get through all Jumanji level that year gives us and contribute to more projects
+👔  I'm currently working for [SAP](https://www.sap.com/index.html) as Cloud Support Engineer
+<br>
+🏫 I'm currently studying Computer Science in Katowice 
+<br>
+📚 I'm currently learning/using: Python, Java, Kotlin + Android, Docker, Kubernetes and all around Cloud
+<br>
+🥅 My goals for 2020: Get through all Jumanji level that year gives us and contribute to more projects
+<br>
 
 ### Connect with me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
@@ -25,3 +29,4 @@
 [website]: www.google.com 
 [linkedin]: https://www.linkedin.com/in/%C5%82ukasz-stachnik-495a46184/
 [instagram]: https://www.instagram.com/lswarss
+ 
