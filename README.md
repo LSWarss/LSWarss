@@ -1,7 +1,7 @@
 ## Hi there, I'm Łukasz aka LSWarss
 
 ### I'm a Runner, Developer and Cloud fan
-👔  I'm currently working for [SAP](https://www.sap.com/index.html) as Cloud Support Engineer
+👔  I'm currently working for [ING](https://www.ing.pl/) as Junior Mobile Developer
 <br>
 🏫 I'm currently studying Computer Science in Katowice 
 <br>
