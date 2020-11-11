@@ -5,7 +5,7 @@
 <br>
 🏫 I'm currently studying Computer Science in Katowice 
 <br>
-📚 I'm currently learning/using: Python, Java, Kotlin + Android, Docker, Kubernetes and all around Cloud
+📚 I'm currently learning/using: Python, Swift, Docker, Kubernetes and all around Cloud
 <br>
 🥅 My goals for 2020: Get through all Jumanji level that year gives us and contribute to more projects
 <br>
@@ -20,6 +20,7 @@
 [<img src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/)
 [<img src="https://img.icons8.com/color/48/000000/django.png"/>](https://www.djangoproject.com/)
 [<img src="https://img.icons8.com/color/48/000000/javascript.png"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://img.icons8.com/fluent/48/000000/swift.png"/>](https://swift.org/)
 [<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>](https://kotlinlang.org/)
 [<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://www.java.com/en/)
 [<img src="https://img.icons8.com/fluent/48/000000/android-os.png"/>](https://developer.android.com/)
