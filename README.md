@@ -1,4 +1,4 @@
-## Hi there, I'm Łukasz aka LSWarss
+## Hello there, I'm Łukasz aka LSWarss
 
 ### I'm a Runner, Developer and Cloud fan
 👔  I'm currently working for [ING](https://www.ing.pl/) as Junior Mobile Developer
