@@ -5,9 +5,7 @@
 <br>
 🏫 I'm currently studying Computer Science in Katowice 
 <br>
-📚 I'm currently learning/using: Python, Swift, Docker, Kubernetes and all around Cloud
-<br>
-🥅 My goals for 2020: Get through all Jumanji level that year gives us and contribute to more projects
+📚 I'm currently learning/using: Python, Swift, Docker, NodeJS
 <br>
 
 ### Connect with me:
